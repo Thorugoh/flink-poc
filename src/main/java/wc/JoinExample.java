@@ -1,4 +1,4 @@
-package p1;
+package wc;
 
 import org.apache.flink.api.common.functions.JoinFunction;
 import org.apache.flink.api.common.functions.MapFunction;
